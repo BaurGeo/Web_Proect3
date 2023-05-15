@@ -1,0 +1,115 @@
+.leftImg {
+    padding-top: 64px;
+    padding-bottom: 64px;
+    padding-left: 160px;
+}
+
+.fromJS {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.aboutAuthor {
+    padding-top: 96px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.aAava {
+    padding-left: 160px;
+}
+
+.aAava img {
+    border-radius: 100%;
+    height: 64px;
+    width: 64px;
+}
+
+.aAdiv1 {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+
+}
+
+.aAinfo {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.aAinfo p {
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+.aAotherInf p {
+    opacity: 0.5;
+}
+
+.aAotherInf {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.aAlinks {
+    display: flex;
+    flex-direction: row;
+    padding-right: 160px;
+    gap: 14px;
+}
+
+.bigSection {
+    padding-top: 70px;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+.bigSection h1 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 34px;
+}
+
+.bigSection p {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.bigSection img {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    width: 100%
+
+}
+
+.bsLastLine {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    opacity: 0.5;
+}
+
+.bsLLlikes {
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+}
+
+.bsLastLine img {
+    padding: 0;
+}
+
+.bsLLlikes p {
+    margin: 0;
+    font-size: 14px;
+}
